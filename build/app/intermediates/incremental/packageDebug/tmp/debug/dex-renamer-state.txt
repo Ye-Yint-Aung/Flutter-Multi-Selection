@@ -1,0 +1,4 @@
+#Tue Jun 04 13:35:54 MMT 2024
+base.0=C\:\\Users\\Ye Yint Aung\\Desktop\\Ye Yint Aung\\multi_selection\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
